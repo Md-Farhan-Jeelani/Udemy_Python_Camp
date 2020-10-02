@@ -1,5 +1,6 @@
 ##### Libraries #####
 import random
+import numpy as np
 
 ##### Positions on The Board #####
 board = [' ' for x in range(10)]
